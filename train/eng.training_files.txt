@@ -1,0 +1,1 @@
+train/eng.Cute_Font_Regular.exp0.lstmf
